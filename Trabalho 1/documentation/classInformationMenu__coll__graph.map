@@ -1,0 +1,5 @@
+<map id="InformationMenu" name="InformationMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,171,124,197"/>
+<area shape="rect" id="node2" href="$classMenu.html" title=" " alt="" coords="37,95,92,121"/>
+<area shape="rect" id="node3" href="$classPlatform.html" title=" " alt="" coords="29,5,100,32"/>
+</map>

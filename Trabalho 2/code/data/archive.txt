@@ -1,0 +1,5 @@
+(2) Streamtitle
+    by streamer1
+    public PT 0 viewers 0 likes  0 dislikes
+    04/01/2021 22:30 - 04/01/2021 22:30
+    minimum_age: 5

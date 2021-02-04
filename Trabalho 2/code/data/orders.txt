@@ -1,0 +1,15 @@
+viewer1 streamer1 1 p
+     Mug 5.99€
+     Tshirt 19.99€
+viewer1 streamer2 4 p
+     Poster 3.99€
+viewer1 streamer1 3 p
+     Tshirt 19.99€
+     Tshirt 19.99€
+     Tshirt 19.99€
+     Tshirt 19.99€
+viewer2 streamer1 5 p
+     Mug 5.99€
+     Mug 5.99€
+viewer2 streamer1 1 p
+     Tshirt 19.99€

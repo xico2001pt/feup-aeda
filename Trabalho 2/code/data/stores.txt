@@ -1,0 +1,6 @@
+5
+streamer1 0
+    Mug 5.99
+    Tshirt 19.99
+streamer2 0
+    Poster 3.99

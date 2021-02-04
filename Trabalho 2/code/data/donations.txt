@@ -1,0 +1,6 @@
+streamer2  50€  2  1
+streamer2  15€  5  2
+streamer2  15€  4  1
+streamer1  5€  5  1
+streamer1  5€  4  1
+streamer1  3€  3  1
