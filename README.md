@@ -11,7 +11,7 @@ Este repositório contém:
 - Exercícios Resolvidos
 - Testes Resolvidos
 - Projeto
-   - [StreamZ](https://github.com/xico2001pt/aeda-streamz)
+   - [StreamZ](https://github.com/filipepcampos/aeda-streamz)
 
 ## Classificações
 
